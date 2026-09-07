@@ -1,0 +1,7 @@
+{
+  "name": "FuelTrack Household",
+  "description": "Modern household vehicle fuel management app with real-time multi-user synchronization, mileage tracking, monthly reports, and Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
